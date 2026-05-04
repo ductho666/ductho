@@ -1,9 +1,7 @@
 # ductho69
-# Hi there, I'm ductho69! 👋
+# Hi there, I'm ductho9! 👋
 
-<p align="left">
-<img src="https://komarev.com" alt="Profile Views" />
-</p>
+![Views](https://komarev.com)
 
 ### 🧑‍💻 About Me
 - 💬 I'm a **Dev Lor**
@@ -11,24 +9,11 @@
 - ⚡ Hobby: Coding, gaming, and exploring technology.
 
 ### 📊 GitHub Stats
-<p align="left">
-<img src="https://vercel.app" alt="Stats" />
-<img src="https://vercel.app" alt="Top Languages" />
-</p>
+![Stats](https://vercel.app)
+![Langs](https://vercel.app)
 
 ### 🛠 Tech Stack
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![C++](https://shields.io) ![Python](https://shields.io) ![JS](https://shields.io)
 
 ### 🤝 Connect with me
-<p align="left">
-<a href="https://t.me/+UTt-fde6U6IxZjYy" target="_blank">
-<img src="https://shields.io" alt="Telegram" />
-</a>
-</p>
-
----
-*Last updated: 2024*
+[![Telegram](https://shields.io)](https://t.me)
