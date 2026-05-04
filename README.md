@@ -1,5 +1,5 @@
 # ductho69
-# Hi there, I'm [Your Name]! 👋
+# Hi ! 👋
 
 ![Profile Views](https://komarev.com)
 
