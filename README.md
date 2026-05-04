@@ -12,7 +12,7 @@
 ![Stats](https://vercel.app)
 ![Langs](https://vercel.app)
 
-### 🛠 Tech Stack
+### kĩ năng
 ![C++](https://shields.io) ![Python](https://shields.io) ![JS](https://shields.io)
 
 ### 🤝 Connect with me
