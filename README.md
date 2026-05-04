@@ -4,7 +4,7 @@
 ![Views](https://komarev.com)
 
 ### 🧑‍💻 About Me
-- 💬 I'm a **Dev Lor**
+- 💬 **Dev Lor**
 - 🌱 I'm currently learning and developing myself every day.
 - ⚡ Hobby: Coding, gaming, and exploring technology.
 
